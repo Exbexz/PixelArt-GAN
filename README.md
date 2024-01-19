@@ -50,6 +50,10 @@ Generative Adversarial Networks (GANs) have shown remarkable success in generati
 Ensure proper preprocessing of your pixel character dataset, including resizing to 16x16 pixels, normalization, and optional data augmentation.
 ## Contributing
 
-Feel free to contribute by opening issues, providing suggestions, or submitting pull requests. Your input is highly appreciated!<br>
+Feel free to contribute by opening issues, providing suggestions, or submitting pull requests. Your input is highly appreciated!
+
+## Credit 
+
+The dataset I use is from Realm Of the Mad God game pixel art. The original source is from the website https://www.realmeye.com/wiki/realm-of-the-mad-god
 
 ---
