@@ -12,10 +12,10 @@ Generative Adversarial Networks (GANs) have shown remarkable success in generati
 
 ## Features
 
-- DCGAN architecture for pixel character generation.<br>
-- Three classes: humanoid, monsters, and animals.<br>
-- Training process with detailed model architecture and data preprocessing.<br>
-- Results and evaluations of the generated pixel characters.<br>
+- DCGAN architecture for pixel character generation.
+- Three classes: humanoid, monsters, and animals.
+- Training process with detailed model architecture and data preprocessing.
+- Results and evaluations of the generated pixel characters.
 
 
 ### Prerequisites
@@ -47,8 +47,7 @@ Generative Adversarial Networks (GANs) have shown remarkable success in generati
 
 ## Data Preprocessing
 
-Ensure proper preprocessing of your pixel character dataset, including resizing to 16x16 pixels, normalization, and optional data augmentation. Refer to the [Data Preprocessing](#data-preprocessing) section for more details.<br>
-
+Ensure proper preprocessing of your pixel character dataset, including resizing to 16x16 pixels, normalization, and optional data augmentation.
 ## Contributing
 
 Feel free to contribute by opening issues, providing suggestions, or submitting pull requests. Your input is highly appreciated!<br>
