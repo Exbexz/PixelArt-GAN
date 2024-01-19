@@ -3,17 +3,17 @@
 
 ## Overview
 
-PixelArtGAN is a project that utilizes a Deep Convolutional Generative Adversarial Network (DCGAN) to generate pixel art characters. The model is designed to create diverse pixel characters belonging to three classes: humanoid, monsters, and animals. The implementation is based on TensorFlow and Keras.
+PixelArtGAN is a project that utilizes a Deep Convolutional Generative Adversarial Network (DCGAN) to generate pixel art characters. The model is designed to create diverse pixel characters belonging to three classes: characters, monsters, and animals. The implementation is based on TensorFlow and Keras.
 <br>
 
 ## Introduction
 
-Generative Adversarial Networks (GANs) have shown remarkable success in generating realistic content across various domains. PixelArtGAN focuses on the creative task of generating pixel art characters, with a particular emphasis on humanoid, monsters, and animals. The project demonstrates the application of a DCGAN architecture to produce pixel characters based on a dataset of 16x16 pixel images.
+Generative Adversarial Networks (GANs) have shown remarkable success in generating realistic content across various domains. PixelArtGAN focuses on the creative task of generating pixel art characters, with a particular emphasis on characters, monsters, and animals. The project demonstrates the application of a DCGAN architecture to produce pixel characters based on a dataset of 16x16 pixel images.
 
 ## Features
 
 - DCGAN architecture for pixel character generation.
-- Three classes: humanoid, monsters, and animals.
+- Three classes: characters, monsters, and animals.
 - Training process with detailed model architecture and data preprocessing.
 - Results and evaluations of the generated pixel characters.
 
